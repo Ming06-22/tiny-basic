@@ -35,8 +35,7 @@ save <filename.tb>: use to save the stored code list to a file
 
 load <filename.tb>: use to load a file to the stored code list
 
-for <variable> = <number> to <number> (step <number>) do <command> / for <variable> = <number> to <number> (step <number>) ... next <variable>:
-  for loop(in one sentence and muitiple sentence version)
+for <variable> = <number> to <number> (step <number>) do <command> / for <variable> = <number> to <number> (step <number>) ... next <variable>: for loop(in one sentence and muitiple sentence version)
 
 stop: use to stop the executionof a tiny basic program and pass control to the tiny basic monitor
 
